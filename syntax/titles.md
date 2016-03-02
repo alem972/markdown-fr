@@ -1,6 +1,6 @@
-# Titles
+# Les titres
 
-As we started writing a markdown document, we need to add a title and some sub-headers.
+Lorsque nous commençons la rédaction du document Markdown, nous avons besoin d'ajouter un titre et un sous-titre.
 
 Markdown supports two styles of headers, Setext and atx.
 
